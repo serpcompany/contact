@@ -1,4 +1,4 @@
 # Contact Us
 
-- General inquires: contact@serp.co
-- Submissions: contact+marketing@serp.co
+- General inquires https://github.com/serpcompany/contact/issues
+
